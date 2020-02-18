@@ -3,6 +3,15 @@
   "version": "1.0.0",
   "main": "lib/index.js",
   "license": "MIT",
+  "author": {
+    "name": "Diego Barros",
+    "email": "diegobarros2812@gmail.com",
+    "url": "https://github.com/diegobarros0701"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegobarros0701/eestado-utils.git"
+  },
   "scripts": {
     "start": "styleguidist server",
     "build": "rollup -c",
