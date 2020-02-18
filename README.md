@@ -4,11 +4,11 @@ Componentes de utilidade do e-Estado
 ## Instalação
 
 ```bash
-npm install @eestado-utils
+npm install @eestado/utils
 ```
 ou
 ```bash
-yarn add @eestado-utils
+yarn add @eestado/utils
 ```
 
 ## Componentes
